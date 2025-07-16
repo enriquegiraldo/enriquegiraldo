@@ -1,121 +1,256 @@
-Hi 👋! My name is Enrique Giraldo Puentes  
-=========================================
+# enriquegiraldo# 🚀 Enrique Giraldo Puentes 👋
+### `Full Stack Developer & Digital Solutions Architect`
 
-💻 Desarrollador y Diseñador Web | Apasionado por la tecnología y el aprendizaje continuo  
-Bogotá, Colombia 🇨🇴  
----
+<div align="center">
+  
+```ascii
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  🌟 Transformando ideas en soluciones digitales robustas 🌟  ║ 
+    ║              📍 Bogotá, Colombia 🇨🇴                        ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🌟 Sobre mí:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;4%2B+a%C3%B1os+de+experiencia;Siempre+aprendiendo+algo+nuevo+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-Con más de **4 años de aprendizaje autodidacta y formación intensiva**, inicié mi camino en la programación con **C#**, **HTML** y **Python**, participando en bootcamps y cursos prácticos.
-
-Actualmente, estoy finalizando el **tecnólogo en Análisis y Desarrollo de Software** en el **SENA**, consolidando mis conocimientos en **frontend, backend y bases de datos**.
-
-💡 Me apasiona crear **soluciones digitales robustas**, con especial interés en **interfaces intuitivas**, el **desarrollo en la nube** y la eficiencia del **backend**.
-
----
-
-### 📚 Formación complementaria
-
-He fortalecido mis habilidades mediante cursos y diplomados en plataformas como:
-
-- **Udemy** (mi principal fuente de formación práctica)
-- **Alura LATAM - Oracle Next Education**
-- **Platzi**
-- **Coursera**
-- **Universidad Sergio Arboleda**
-- **Universidad Nacional de Colombia**
+</div>
 
 ---
 
-### ☁️ Conocimientos en la nube
+## 🎯 **Mi Filosofía de Código**
 
-Cuento con fundamentos sólidos en servicios de:
+> *"El código no es solo funcionalidad, es arte que resuelve problemas reales"*
 
-- **Amazon Web Services (AWS)**
-- **Oracle Cloud Infrastructure (OCI)**
-- **Google Cloud Platform (GCP)**
-
----
-
-### 🧠 Actualmente estoy aprendiendo...
-
-- **React** con **Redux** y **Material UI**
-- Arquitectura de software y buenas prácticas
-- Técnicas de testing y despliegue en la nube
-- Desarrollo de soluciones reales para pymes
-
----
-
-### 🤝 Estoy abierto a colaborar en...
-
-- Proyectos **frontend y backend** con **Java**, **JavaScript**, **Spring Boot**, **Node.js**, **React**
-- Iniciativas de impacto social o educativo
-- Desarrollo de **software para pequeños negocios**
+```javascript
+const enrique = {
+  location: "Bogotá, Colombia 🇨🇴",
+  current_focus: "Full Stack Development",
+  learning_journey: {
+    years: 4,
+    approach: "autodidacta + formación intensiva",
+    currently_studying: "Tecnólogo en Análisis y Desarrollo de Software - SENA"
+  },
+  passion: ["interfaces intuitivas", "desarrollo en la nube", "backend eficiente"],
+  motto: "Transformar ideas en soluciones digitales robustas"
+};
+```
 
 ---
 
-### 🚀 Stack actual
+## 🛠️ **Arsenal Tecnológico**
 
+### **Frontend Universe** 🎨
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git"/></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React"/></a>
-<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" alt="Material UI"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="NodeJS"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" alt="MongoDB"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" alt="AWS"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" alt="GCP"/></a>
-<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" alt="Oracle Cloud"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" alt="Kubernetes"/></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" alt=".NET"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,figma" alt="Frontend Skills" />
+</p>
+
+### **Backend Powerhouse** ⚡
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,dotnet,spring" alt="Backend Skills" />
+</p>
+
+### **Database Mastery** 🗄️
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Skills" />
+</p>
+
+### **Cloud & DevOps** ☁️
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git" alt="Cloud Skills" />
 </p>
 
 ---
 
-### 📫 Contacto
+## 📊 **Estadísticas de Batalla**
 
-- 📍 Bogotá, Colombia  
-- 📧 [enriquegiraldo@hotmail.es](mailto:enriquegiraldo@hotmail.es)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/enrique-giraldo-puentes-cc80123548/)  
-- 🐙 [GitHub](https://www.github.com/enriquegiraldo)  
-- 🎥 [YouTube](https://www.youtube.com/@Enrique_Giraldo_Puentes)  
-- 🦊 [GitLab](https://www.gitlab.com/enriquegiraldo)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enriquegiraldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegiraldo&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
----
-
-### 🏅 Badges
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriquegiraldo&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
-> _"Sigo aprendiendo cada día, con la convicción de que la tecnología es una herramienta poderosa para transformar ideas en soluciones reales."_  
-> — Enrique Giraldo
+## 🎓 **Academia & Certificaciones**
 
+### **Instituciones de Élite**
+```
+🏛️ SENA - Tecnólogo en Análisis y Desarrollo de Software
+🎯 Oracle Next Education - Alura LATAM por 3 años 
+🚀 Udemy - Formación Práctica Intensiva
+📚 Platzi - Habilidades Técnicas Avanzadas
+🏛️ Universidad de Caldo
+🎓 Universidad Sergio Arboleda 
+🏛️ Universidad Nacional de Colombia
+📖 Coursera - Educación Continua
+```
 
-<b>My GitHub Stats</b>
+### **Especializaciones Cloud**
+<div align="center">
 
-<a href="http://www.github.com/enriquegiraldo"><img src="https://github-readme-stats.vercel.app/api?username=enriquegiraldo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enriquegiraldo's GitHub stats" /></a>
+| ☁️ **AWS** | ☁️ **Oracle Cloud** | ☁️ **Google Cloud** |
+|------------|-------------------|-------------------|
+| `Fundamentos sólidos` | `Oracle Cloud Infrastructure` | `Google Cloud Platform` |
+| `Servicios core` | `Servicios empresariales` | `Arquitectura distribuida` |
 
-<a href="https://github.com/enriquegiraldo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegiraldo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/enriquegiraldo/Org" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enriquegiraldo&repo=Org&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/enriquegiraldo/FocusAppdeEstudio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enriquegiraldo&repo=FocusAppdeEstudio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🧠 **Laboratorio de Aprendizaje**
 
-<br /><br /><br /><br /><br />
+```mermaid
+graph TD
+    A[🎯 Actualmente Dominando] --> B[React + Redux + Material UI]
+    A --> C[Arquitectura de Software]
+    A --> D[Testing & Cloud Deployment]
+    A --> E[Soluciones para PYMEs]
+    
+    B --> F[🚀 Próximos Objetivos]
+    C --> F
+    D --> F
+    E --> F
+    
+    F --> G[Microservicios]
+    F --> H[AI/ML Integration]
+    F --> I[DevOps Avanzado]
+```
 
-<div width="100%" align="center"><a href="https://github.com/enriquegiraldo/cumplea-osDeIsabella" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enriquegiraldo&repo=cumplea-osDeIsabella&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
 
-### Support Me
+## 🤝 **Zona de Colaboración**
 
-<ul style="list-style-type: none; margin: 0;">
+<div align="center">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dengipuf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### **🔥 Proyectos Que Me Emocionan**
 
-</ul>
+| **Categoría** | **Tecnologías** | **Impacto** |
+|---------------|----------------|-------------|
+| 🎨 **Frontend** | `React` `JavaScript` `Material UI` | Interfaces que enamoran |
+| ⚡ **Backend** | `Java` `Spring Boot` `Node.js` | Arquitecturas que escalan |
+| 🌱 **Social Impact** | `Full Stack` | Educación & Comunidad |
+| 🏢 **Business Solutions** | `Cloud Native` | Software para PYMEs |
+
+</div>
+
+---
+
+## 🎨 **Portafolio Visual**
+
+<div align="center">
+  
+### **🌟 Proyectos Destacados**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    🚧 En Construcción 🚧                    │
+│                                                             │
+│  📱 App Mobile - React Native                              │
+│  🌐 E-commerce Platform - MERN Stack                       │
+│  ☁️ Cloud Microservices - Spring Boot                      │
+│  🤖 AI Chat Assistant - Python + OpenAI                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🏆 **Logros & Reconocimientos**
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=enriquegiraldo&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+## 🎵 **Soundtrack de Programación**
+
+<div align="center">
+
+> *"La música es el combustible del código"* 🎧
+
+### 🎶 Géneros Favoritos
+```diff
++ Deep Focus    + Synthwave    + Lo-Fi    + Classical    + Electronic
+```
+
+### 🚀 Playlists Recomendadas
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=ada1f7e6a5b74c4c)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+
+### 🔊 Últimas Reproducciones
+```ascii
+┌──────────────────────────────────────────────┐
+│  🎧  Deep Focus - Flow State (2h 45m)        │
+│  ⚡  Synthwave Retro Vibes (1h 52m)          │
+│  🎻  Classical Coding Sessions (3h 10m)      │
+│  🌌  Space Ambient Explorer (4h 20m)         │
+└──────────────────────────────────────────────┘
+```
+
+### 🎛️ Mi Configuración
+```yaml
+player: 
+  - Spotify Premium
+  - YouTube Music
+equipo:
+  - Headphones: Sony WH-1000XM5
+  - Speakers: Edifier R1280DB
+volumen: 75% # Nivel óptimo para concentración
+```
+
+</div>
+
+---
+
+## 🌐 **Conectemos y Creemos Juntos**
+
+<div align="center">
+
+### **🔗 Mis Territorios Digitales**
+
+<p align="center">
+<a href="mailto:enriquegiraldo@hotmail.es">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/enrique-giraldo-puentes-cc80123548/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.github.com/enriquegiraldo">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.youtube.com/@Enrique_Giraldo_Puentes">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.gitlab.com/enriquegiraldo">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+</p>
+
+</div>
+
+---
+
+## 📈 **Actividad Reciente**
+
+<div align="center">
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+<div align="center">
+
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=enriquegiraldo&color=00D9FF&style=flat)](https://github.com/enriquegiraldo)
+
+</div>
+
