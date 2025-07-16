@@ -91,7 +91,6 @@ Cuento con fundamentos sólidos en servicios de:
 
 ### 🏅 Badges
 
-[¡Aquí puedes incluir badges de cursos completados en Udemy, Alura o certificaciones en GitHub si lo deseas!]
 
 ---
 
