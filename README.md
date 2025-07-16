@@ -4,8 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desarrollador y diseñador web
 -----------------------------
 
-llevo 4 Años aprendiendo a programar ahora estoy cambiar de carrera cambiando de carrera empecé con C# HTML Python, en cursos tipo Bootcam ahora estoy terminando un tecnólogo en el sena
 
+---
+
+### Sobre mí:
+* Con 4 años de experiencia autodidacta y formación intensiva en **C#, HTML** y **Python**.
+* Actualmente, finalizando mi tecnólogo en desarrollo de software en el **SENA**.
+* Apasionado por crear soluciones robustas y eficientes, con interés particular en [menciona un área específica, ej: desarrollo web, ciencia de datos, backend].
+
+---
 * 🌍  I'm based in Bogotá
 * ✉️  You can contact me at [enriquegiraldo@hotmail.es](mailto:enriquegiraldo@hotmail.es)
 * 🧠  I'm learning todo lo relacionado con el front end
